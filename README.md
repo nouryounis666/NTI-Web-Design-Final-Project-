@@ -24,6 +24,7 @@ The website is fully responsive and uses animations for a smooth user experience
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
+- **Google Fonts**
 - **AOS (Animate On Scroll)**
 - **Font Awesome & Bootstrap Icons**
 - **JavaScript (for interactivity and animations)**
